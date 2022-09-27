@@ -1,2 +1,2 @@
 
-export { default as addButton } from './Pages/commonComponent/add';
+export { default as AddButton } from './AddButton';
